@@ -9,6 +9,14 @@
 		"build": "vite build",
 		"preview": "vite preview"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mcwachira/mern-social-media.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mcwachira/mern-social-media/issues"
+	},
+	"homepage": "https://github.com/mcwachira/mern-social-media#readme",
 	"dependencies": {
 		"@emotion/react": "^11.10.5",
 		"@emotion/styled": "^11.10.5",
